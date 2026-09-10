@@ -1,0 +1,10 @@
+{
+  "name": "TrustMark",
+  "description": "Digital Product Passport & Brand Quality Verification SaaS with anti-counterfeit QR scanning, multi-language support, and transparency metrics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
